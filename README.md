@@ -24,7 +24,7 @@ I'm come from VietNam 🇻🇳
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=Shop_Snow&theme=dracula)](https://github.com/xiangli-genz/Shop_Snow)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=Crawl_tool&theme=dracula)](https://github.com/xiangli-genz/Crawl_tool)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=snowfliesz-jpg&repo=SnowShopPhone&theme=dracula)](https://github.com/xiangli-genz/Crawl_tool)
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=booking_movies&theme=dracula)](https://github.com/xiangli-genz/Crawl_tool)
 
 #### Liên hệ
 
