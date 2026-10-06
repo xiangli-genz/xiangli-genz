@@ -20,13 +20,13 @@ I'm come from VietNam 🇻🇳
 
 ![Ngôn ngữ hay dùng](https://github-readme-stats.vercel.app/api/top-langs/?username=xiangli-genz&layout=compact&theme=dracula&hide_border=true)
 
-#### Dự án nổi bật
+#### Featured Projects
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=Shop_Snow&theme=dracula)](https://github.com/xiangli-genz/Shop_Snow)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=Crawl_tool&theme=dracula)](https://github.com/xiangli-genz/Crawl_tool)
 [![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=xiangli-genz&repo=booking_movies&theme=dracula)](https://github.com/xiangli-genz/Crawl_tool)
 
-#### Liên hệ
+#### Contact me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/trung.son.184960)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiangli8386@gmail.com)
